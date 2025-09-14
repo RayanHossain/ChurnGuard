@@ -24,5 +24,5 @@ This project was a step-by-step exploration of the customer lifecycle:
 * **Explainable AI:** `SHAP`
 
 
-### Refrences:
+### References:
 Dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download&select=olist_orders_dataset.csv
