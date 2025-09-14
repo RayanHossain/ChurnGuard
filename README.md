@@ -22,3 +22,7 @@ This project was a step-by-step exploration of the customer lifecycle:
 * **Plotting:** `Matplotlib`, `Seaborn`
 * **Modeling & ML:** `Scikit-Learn`, `XGBoost`, `Optuna`
 * **Explainable AI:** `SHAP`
+
+
+Refrences:
+Dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download&select=olist_orders_dataset.csv
