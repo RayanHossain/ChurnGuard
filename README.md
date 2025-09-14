@@ -1,6 +1,4 @@
-# ChurnGuard
-
-## E-Commerce Customer Churn: From Raw Data to Business Strategy
+# ChurnGuard | E-Commerce Customer Churn: From Raw Data to Business Strategy
 
 ### Project Motivation
 
